@@ -12,15 +12,15 @@
 ### 4) Run launch.bat (or node RP.js)
 
 # How to obtain your user token:
-open browser
-login to discord using browser
-hightlight some text
-right click
-inspect
-click application tab
-click local storage
-click https://discordapp.com
-scroll down
-copy the text labeled "token"
-put it in the data.json
-the end
+### open browser
+### login to discord using browser
+### hightlight some text
+### right click
+### inspect
+### click application tab
+### click local storage
+### click https://discordapp.com
+### scroll down
+### copy the text labeled "token"
+### put it in the data.json
+### the end
