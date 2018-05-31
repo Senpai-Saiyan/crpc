@@ -1,0 +1,19 @@
+{
+  "name": "RichPresence",
+  "version": "1.0.0",
+  "license": "GPL-3.0",
+  "main": "RP.js",
+  "scripts": {
+    "start": "node RP.js"
+  },
+  "description": "Custom Rich Presence!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Senpai-Saiyan/CRPC.git"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "express": "^4.16.3",
+    "discord": "^0.8.2"
+  }
+}

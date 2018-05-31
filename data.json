@@ -1,0 +1,14 @@
+{
+    "RPData": {
+	"enabled": true,
+        "name": "Question Cove",
+        "type": 0,
+        "details": "Free Online Tutoring",
+        "state": "Just Looking Around",
+        "endTimestamp": 1510507207,
+        "largeImageID": "451775637200437261",
+        "smallImageID": "444148312640323586",
+        "application_id": "444144517478875157"
+    },
+	"dtoken": "NDIzMTI3NTU5MTcwMDMxNjE3.DfF1zQ.j-sLR1qPWHUOp2MpJGRM_Mv3qro"
+} 
