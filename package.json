@@ -9,7 +9,7 @@
   "description": "Custom Rich Presence!",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Senpai-Saiyan/CRPC.git"
+    "url": "https://github.com/Senpai-Saiyan/crpc.git"
   },
   "dependencies": {
     "discord.js": "^11.3.2",
