@@ -1,8 +1,8 @@
-# RichPresence
+# Custom Rich Presence (CRPC)
 
-### This javascript file will set a custom rich presence in discord.
+### Set your own custom rich presence
 
-### You'll need discord.js to run it.
+### discord.js is needed to run it(obviously)
 
 # Installation
 
@@ -10,3 +10,17 @@
 ### 2) Run npm install
 ### 3) Add your token to data.json 
 ### 4) Run launch.bat (or node RP.js)
+
+# How to obtain your user token:
+open browser
+login to discord using browser
+hightlight some text
+right click
+inspect
+click application tab
+click local storage
+click https://discordapp.com
+scroll down
+copy the text labeled "token"
+put it in the data.json
+the end
